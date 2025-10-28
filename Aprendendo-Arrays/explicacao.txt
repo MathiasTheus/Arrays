@@ -1,0 +1,20 @@
+i vai de 0 até cars.length - 1
+
+cars.length é 3 porque o array tem 3 elementos.
+
+O loop faz:
+
+i = 0, cars[0] → "Ford"
+
+i = 1, cars[1] → "Toyota"
+
+i = 2, cars[2] → "BMW"
+
+Quando i = 3, a condição i < cars.length é falsa, então o loop para.
+
+cars[i] pega o valor do array na posição i
+
+Cada vez que o loop roda, cars[i] retorna o elemento correspondente ao índice atual.
+
+console.log(cars[i]) mostra esse valor no console.
+
