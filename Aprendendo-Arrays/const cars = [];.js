@@ -6,6 +6,9 @@ console.log(cars);
 cars[0] = "Peugeot208";
 cars[1] = "Volvo";
 cars[2] = "Fluence";
+
+// Add elementos com metodo push
+cars.push("BMW");
 console.log(cars);
 
 //length retorna o comprimento de uma matriz
