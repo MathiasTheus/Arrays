@@ -18,3 +18,11 @@ Cada vez que o loop roda, cars[i] retorna o elemento correspondente ao índice a
 
 console.log(cars[i]) mostra esse valor no console.
 
+🧠 Então resumindo:
+O que faz	Simples explicação
+Converte o array em texto	Sim ✅
+Une todos os elementos	Sim ✅
+Adiciona algo entre eles (separador)	Sim ✅
+Altera o array original	Não ❌
+Formata strings complexas (como CPF)	Não diretamente ❌ (use replace ou string methods)
+
