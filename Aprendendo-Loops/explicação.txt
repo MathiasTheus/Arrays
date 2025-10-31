@@ -1,0 +1,11 @@
+o [i] significa “acessar o elemento na posição i”
+Isso é chamado de acesso por índice ou indexação.
+
+Mas o que isso retorna depende do tipo da variável.
+
+✅ Resumo geral
+Tipo da variável	Exemplo	variavel[i] retorna
+String	"Hello"	o caractere na posição i
+Array	[1, 2, 3]	o elemento na posição i
+Objeto	{nome: "Ana"}	o valor da chave (se i for o nome da chave)
+Outro tipo	número, boolean etc.	geralmente undefined ou erro
