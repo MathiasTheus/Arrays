@@ -7,6 +7,6 @@
     }
 
 
-
+// alteração feita para testar o pull request
 // Quando uma variável é declarada com let ou const dentro de um laço,
 //  ela só será visível dentro do laço.
